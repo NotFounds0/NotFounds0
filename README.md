@@ -6,7 +6,7 @@ Ve Kendimi Geliştiriyorum
 ## Sosyal Medya Hesaplarım
 
 <p align="center">
-    <a href="http://instagram.com/same.t1_"><img src="https://img.shields.io/badge/Samet/hesabım%20-DD2A7B.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="http://instagram.com/sametrx06"><img src="https://img.shields.io/badge/İnstagram Hesabım%20-DD2A7B.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://discord.com/users/575626408873689118"><img src="https://img.shields.io/badge/NotFounds%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href=""><img src="https://img.shields.io/badge/Sunucum%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://github.com/Samettbeyy"><img src="https://img.shields.io/badge/Samettbeyy%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
