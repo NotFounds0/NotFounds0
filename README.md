@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am samet, I have been dealing with software for 1 year and I am developing myself.
+Hello, I am samet.
 
 
 
