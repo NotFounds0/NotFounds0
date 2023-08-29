@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello, I am samet.
+A passionate frontend developer from Turkey 
 
 
 
